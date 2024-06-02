@@ -30,14 +30,14 @@ class _LoginScreenState extends State<LoginScreen> {
             children: [
               const SizedBox(height: 100),
               const Text(
-                'Welcome Back!',
+                'Big Talk',
                 style: TextStyle(
-                  fontSize: 32,
+                  fontSize: 34,
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
                 ),
               ),
-              const SizedBox(height: 10),
+              const SizedBox(height: 50),
               const Text(
                 'Please login to your account',
                 style: TextStyle(
